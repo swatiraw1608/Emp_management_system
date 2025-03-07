@@ -1,7 +1,8 @@
-Employe Managment System 
+Employee Managment System 
 
 Technology used :- 
--Servlet
+-Servlets
+-Spring Data JPA
 -HIbernate
 -Spring MVC
--PostgreSQl
+-PostgreSQL
